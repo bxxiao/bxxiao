@@ -6,6 +6,10 @@ import org.util.TextProcessor;
 import java.io.*;
 import java.util.Collection;
 
+/**
+ * 根据两个文件的输入流，使用CosCalculator和TextProcessor工具类
+ * 计算两篇文章的相似度
+ */
 public class CosSimilarity {
     private FileReader sourceReader;
     private FileReader plagiarizeReader;
@@ -19,8 +23,10 @@ public class CosSimilarity {
      * @param answer 答案文件路径
      */
     public void work(String source, String plagiarize, String answer){
-        //初始化3个流
-        initFileIO(source, plagiarize, answer);
+        //初始化3个流，若初始化失败，程序停止
+        if(!initFileIO(source, plagiarize, answer)){
+            return;
+        }
 
         //获取词频向量
         Collection<int[]> vectors = TextProcessor.getVectors(sourceReader, plagiarizeReader);
@@ -43,7 +49,7 @@ public class CosSimilarity {
      * @param plagiarize 抄袭文件路径
      * @param answer 答案文件
      */
-    public void initFileIO(String source, String plagiarize, String answer){
+    public boolean initFileIO(String source, String plagiarize, String answer){
         File sourceFile = new File(source);
         File plagiarizeFile = new File(plagiarize);
         File answerFile = new File(answer);
@@ -55,8 +61,9 @@ public class CosSimilarity {
         }catch (IOException e) {
             //捕获异常。此处出现异常说明输入的路径出错
             System.out.println("文件未找到，请正确输入路径");
-            System.exit(0);
+            return false;
         }
 
+        return true;
     }
 }

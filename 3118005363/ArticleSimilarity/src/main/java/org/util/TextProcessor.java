@@ -9,6 +9,9 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * 对文章进行分词，根据分词结果计算词频向量的处理类
+ */
 public class TextProcessor {
 
     /**

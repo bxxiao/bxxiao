@@ -46,11 +46,20 @@ public class CosCalculator {
      */
     public static String  getCos(Collection<int[]> vectors) {
         double result = 0;
-        result = pointMulti(vectors) / Math.sqrt(squares(vectors));
+        double sqrt = Math.sqrt(squares(vectors));
 
-        String resultStr = String.valueOf(result*100);
+        //若分母为0，表示相似度为0，返回0的字符串
+        if (sqrt==0){
+            return "0";
+        }
+
+        result = pointMulti(vectors) / sqrt;
+
+        //添加额外的0，防止在下面保留两位数操作中数组索引越界（resultStr.indexOf(".")+3）
+        String resultStr = String.valueOf(result*100) + "0000";
+        //保留两位小数：截取小数点后第3位之前的子字符串
         resultStr = resultStr.substring(0 ,resultStr.indexOf(".")+3);
-        //保留两位小数
+
         return resultStr;
     }
 
