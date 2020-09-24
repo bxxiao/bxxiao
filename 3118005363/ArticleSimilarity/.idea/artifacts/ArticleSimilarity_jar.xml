@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact name="ArticleSimilarity:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArticleSimilarity_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ArticleSimilarity.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="ArticleSimilarity" />
+      </element>
+      <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queries:8.0.0" />
+      <element id="library" level="project" name="Maven: org.apache.lucene:lucene-analyzers-common:8.0.0" />
+      <element id="library" level="project" name="Maven: org.apache.lucene:lucene-core:8.0.0" />
+      <element id="library" level="project" name="Maven: com.jianggujin:IKAnalyzer-lucene:8.0.0" />
+      <element id="library" level="project" name="Maven: org.apache.lucene:lucene-sandbox:8.0.0" />
+      <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queryparser:8.0.0" />
+    </root>
+  </artifact>
+</component>

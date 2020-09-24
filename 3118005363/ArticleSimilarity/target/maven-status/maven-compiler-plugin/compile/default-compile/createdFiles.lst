@@ -1,0 +1,4 @@
+org\util\CosCalculator.class
+org\util\TextProcessor.class
+org\similarity\Main.class
+org\similarity\CosSimilarity.class
