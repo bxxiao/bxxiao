@@ -10,6 +10,5 @@ public class Main {
             System.out.println("参数输入错误，请按以下形式输入参数：【原文文件路径 抄袭文件路径 答案文件路径】");
             return;
         }
-
     }
 }

@@ -44,7 +44,7 @@ public class CosCalculator {
      * @param vectors 词频向量
      * @return 以字符串形式返回保留两位数的结果
      */
-    public static String  getCos(Collection<int[]> vectors) {
+    public static String getCos(Collection<int[]> vectors) {
         double result = 0;
         double sqrt = Math.sqrt(squares(vectors));
 
