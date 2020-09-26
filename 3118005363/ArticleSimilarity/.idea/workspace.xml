@@ -7,21 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="760530d3-9ab1-4603-a0d9-a471a4abf37d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/980ca90a02d633d5d829b75a471bf47527f74fc7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/980ca90a02d633d5d829b75a471bf47527f74fc7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5ac76315b4405b536ccbae290b46b0923e59cb7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5ac76315b4405b536ccbae290b46b0923e59cb7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5ea13425c383c8340201286d2ffc637b0dd4c97" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5ea13425c383c8340201286d2ffc637b0dd4c97" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb043057688b42a85c5c534d6b78c0328b3a3381" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb043057688b42a85c5c534d6b78c0328b3a3381" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/answer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/empty.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/similarity/CosSimilarity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/similarity/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/util/CosCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/util/TextProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/orig.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/orig_add.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/orig_del.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/orig_dis.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/same.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/suborig.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/test/TestSimilarity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/answer.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +22,7 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myAutoScrollToSource" value="true" />
-    <option name="myElementSize" value="123" />
+    <option name="myElementSize" value="172" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,7 +68,7 @@
     <property name="ToolWindowCoverage.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Project/TestProject/CheckPaper" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.12298851" />
@@ -92,7 +84,7 @@
       <recent name="E:\AAAFrequently-used\bxxiao\3118005363\ArticleSimilarity\src\main\resources\copy" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in ArticleSimilarity (1)">
+  <component name="RunManager" selected="JUnit.TestSimilarity">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.similarity.Main" />
       <module name="ArticleSimilarity" />
@@ -147,6 +139,10 @@
           <option name="PATTERN" value="org.util.TextProcessor" />
           <option name="ENABLED" value="true" />
         </pattern>
+        <pattern>
+          <option name="PATTERN" value="org.test.TestSimilarity" />
+          <option name="ENABLED" value="true" />
+        </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.test" />
       <option name="MAIN_CLASS_NAME" value="org.test.TestSimilarity" />
@@ -199,8 +195,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in ArticleSimilarity (1)" />
         <item itemvalue="JUnit.TestSimilarity" />
+        <item itemvalue="JUnit.All in ArticleSimilarity (1)" />
         <item itemvalue="JUnit.All in ArticleSimilarity" />
         <item itemvalue="JUnit.TestSimilarity.testab" />
         <item itemvalue="JUnit.TestSimilarity.testAlternate" />
@@ -221,6 +217,9 @@
       <workItem from="1600864107282" duration="161000" />
       <workItem from="1600864280285" duration="426000" />
       <workItem from="1600864721458" duration="24104000" />
+      <workItem from="1600954628634" duration="3231000" />
+      <workItem from="1600959555405" duration="2333000" />
+      <workItem from="1601044130504" duration="32000" />
     </task>
     <servers />
   </component>
@@ -228,26 +227,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="116" key="#TestSimilarity" timestamp="1600922524514">
+    <state x="395" y="144" key="#TestSimilarity" timestamp="1600960053542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="344" y="99" key="#TestSimilarity.test" timestamp="1600870176579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="344" y="99" key="#TestSimilarity.test/0.0.1536.824@0.0.1536.824" timestamp="1600870176579" />
-    <state x="344" y="116" key="#TestSimilarity/0.0.1536.824@0.0.1536.824" timestamp="1600922524514" />
-    <state x="290" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600870944097">
+    <state x="395" y="144" key="#TestSimilarity/0.0.1536.824@0.0.1536.824" timestamp="1600960053542" />
+    <state x="34" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600959739854">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="290" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600870944097" />
+    <state x="34" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600959739854" />
     <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1600858461806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1600858461806" />
-    <state x="565" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600943140985">
+    <state x="620" y="254" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600960051986">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="565" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600943140985" />
+    <state x="620" y="254" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600960051986" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600875772898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -260,26 +259,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1600864415006" />
-    <state x="538" y="205" key="FileChooserDialogImpl" timestamp="1600941411758">
+    <state x="538" y="205" key="FileChooserDialogImpl" timestamp="1600960618859">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="538" y="205" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600941411758" />
-    <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1600943788422">
+    <state x="538" y="205" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600960618859" />
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom" timestamp="1601028643504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600943788422" />
-    <state width="1493" height="217" key="GridCell.Tab.0.center" timestamp="1600943788421">
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601028643504" />
+    <state width="1493" height="150" key="GridCell.Tab.0.center" timestamp="1601028643503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600943788421" />
-    <state width="1493" height="217" key="GridCell.Tab.0.left" timestamp="1600943788421">
+    <state width="1493" height="150" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601028643503" />
+    <state width="1493" height="150" key="GridCell.Tab.0.left" timestamp="1601028643503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600943788421" />
-    <state width="1493" height="217" key="GridCell.Tab.0.right" timestamp="1600943788422">
+    <state width="1493" height="150" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601028643503" />
+    <state width="1493" height="150" key="GridCell.Tab.0.right" timestamp="1601028643504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600943788422" />
+    <state width="1493" height="150" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601028643504" />
     <state width="1493" height="347" key="GridCell.Tab.1.bottom" timestamp="1600869423132">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -320,12 +319,13 @@
       <FILTER>org.similarity.Main</FILTER>
       <FILTER>org.util.TextProcessor</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/ArticleSimilarity$TestSimilarity.ic" NAME="TestSimilarity Coverage Results" MODIFIED="1600922531158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/ArticleSimilarity$TestSimilarity.ic" NAME="TestSimilarity Coverage Results" MODIFIED="1600960057193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.test.*</FILTER>
       <FILTER>org.util.CosCalculator</FILTER>
       <FILTER>org.similarity.CosSimilarity</FILTER>
       <FILTER>org.similarity.Main</FILTER>
       <FILTER>org.util.TextProcessor</FILTER>
+      <FILTER>org.test.TestSimilarity</FILTER>
     </SUITE>
   </component>
 </project>
