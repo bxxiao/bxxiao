@@ -1,0 +1,11 @@
+
+>	java:S131:""Add a default case to this switch.(³ñËÕ8ğÖß™Ñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Àçì‰8ğÚä˜Ñ.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(êÿ³Âúÿÿÿÿ8ŠÛŞ™Ñ.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(·ªÖôüÿÿÿÿ8øÆò™Ñ.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Î¿æŒúÿÿÿÿ8˜÷Û™Ñ.
+h
+java:S1301:"KReplace this "switch" statement by "if" statements to increase readability.(³ñËÕ8ğÖß™Ñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êÿ³Âúÿÿÿÿ8Çä™Ñ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(·ªÖôüÿÿÿÿ8‡­À™Ñ.

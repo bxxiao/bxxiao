@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c4befc8-731e-4270-90e9-78b1f3827568" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../3118005363/ArticleSimilarity/.idea/sonarlint/issuestore/e/5/e5ac76315b4405b536ccbae290b46b0923e59cb7" beforeDir="false" afterPath="$PROJECT_DIR$/../../3118005363/ArticleSimilarity/.idea/sonarlint/issuestore/e/5/e5ac76315b4405b536ccbae290b46b0923e59cb7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3118005363/ArticleSimilarity/.idea/sonarlint/issuestore/e/5/e5ea13425c383c8340201286d2ffc637b0dd4c97" beforeDir="false" afterPath="$PROJECT_DIR$/../../3118005363/ArticleSimilarity/.idea/sonarlint/issuestore/e/5/e5ea13425c383c8340201286d2ffc637b0dd4c97" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3118005363/ArticleSimilarity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3118005363/ArticleSimilarity/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\AAAFrequently-used\bxxiao\四则运算题目生成器\ArithmeticGenerator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\repository" />
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="1idi1xI2aLPe8lkJ1cias1e3I9L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="ArithmeticGenerator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c4befc8-731e-4270-90e9-78b1f3827568" name="Default Changelist" comment="" />
+      <created>1602243657378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602243657378</updated>
+      <workItem from="1602243660720" duration="9036000" />
+      <workItem from="1602302064268" duration="17309000" />
+      <workItem from="1602337513144" duration="983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1602252060365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602252060355" />
+    <state x="344" y="4" key="CommitChangelistDialog2" timestamp="1602244285712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="344" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602244285712" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1602244400612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602244400612" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602338502783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602338502783" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1602338503835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602338503835" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1602338503835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602338503835" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1602338503835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602338503835" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1602338503835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602338503835" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602322478737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602322478737" />
+  </component>
+</project>

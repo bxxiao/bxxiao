@@ -7,13 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="760530d3-9ab1-4603-a0d9-a471a4abf37d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/980ca90a02d633d5d829b75a471bf47527f74fc7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/980ca90a02d633d5d829b75a471bf47527f74fc7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5ac76315b4405b536ccbae290b46b0923e59cb7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5ac76315b4405b536ccbae290b46b0923e59cb7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5ea13425c383c8340201286d2ffc637b0dd4c97" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5ea13425c383c8340201286d2ffc637b0dd4c97" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb043057688b42a85c5c534d6b78c0328b3a3381" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb043057688b42a85c5c534d6b78c0328b3a3381" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/answer.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
     <property name="ToolWindowCoverage.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Project/TestProject/CheckPaper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.12298851" />
@@ -220,6 +216,9 @@
       <workItem from="1600954628634" duration="3231000" />
       <workItem from="1600959555405" duration="2333000" />
       <workItem from="1601044130504" duration="32000" />
+      <workItem from="1601085563849" duration="730000" />
+      <workItem from="1602340083281" duration="42000" />
+      <workItem from="1602346306752" duration="799000" />
     </task>
     <servers />
   </component>
@@ -259,10 +258,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1600864415006" />
-    <state x="538" y="205" key="FileChooserDialogImpl" timestamp="1600960618859">
+    <state x="538" y="205" key="FileChooserDialogImpl" timestamp="1601086543501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="538" y="205" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600960618859" />
+    <state x="538" y="205" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601086543501" />
     <state width="1493" height="150" key="GridCell.Tab.0.bottom" timestamp="1601028643504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -295,10 +294,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="347" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600869423131" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1600943153437">
+    <state x="270" y="0" key="SettingsEditor" timestamp="1602346506365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600943153437" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602346506364" />
+    <state x="226" y="118" key="new project wizard" timestamp="1601086637318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="226" y="118" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601086637318" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600873879378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

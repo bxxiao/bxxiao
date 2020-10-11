@@ -1,0 +1,18 @@
+
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Ò£Âªüÿÿÿÿ8™Ò“—Ñ.
+^	java:S899#"BDo something with the "boolean" value returned by "createNewFile".(İ¢áĞ8ãì•—Ñ.
+\	java:S899";Do something with the "boolean" value returned by "delete".(‚·ïñûÿÿÿÿ8¹’—Ñ.
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(‡ÛŸÚıÿÿÿÿ8ŞÚ¿—Ñ.
+T
+java:S1128"2Remove this unused import 'expression.Expression'.(ò¼ÖÁşÿÿÿÿ8ŞÚ¿—Ñ.
+\	java:S899";Do something with the "boolean" value returned by "delete".(Ò£Âªüÿÿÿÿ8™Ò“—Ñ.
+j
+java:S2095$"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ûÇıÿÿÿÿ8¿²—Ñ.
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‚·ïñûÿÿÿÿ8¹’—Ñ.
+j
+java:S2095%"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ùØüôÿÿÿÿÿ8¿²—Ñ.
+^	java:S899""BDo something with the "boolean" value returned by "createNewFile".(‰ØôÒ8É¢•—Ñ.
