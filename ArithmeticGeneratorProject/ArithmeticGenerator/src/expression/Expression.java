@@ -70,7 +70,7 @@ public class Expression {
     /**
      * 生成二叉树
      */
-    public void createBTree(){
+    public void createExpression(){
         TreeNode lchild, rchild, lnode, rnode;
 
         //只有一个运算符
@@ -114,7 +114,7 @@ public class Expression {
                         opeList.get(num1).setRchild(rchild);
                     }
                 }
-                //place[i]为false，则只生成两个运算数，组装到当前运算符左右孩子
+                //place[i]为false，则只生成一个运算数，组装到当前运算符的左右孩子
                 else{
                     if(i%2 == 0){
                         lchild = new TreeNode(Ran.getNumber(max), null, null);

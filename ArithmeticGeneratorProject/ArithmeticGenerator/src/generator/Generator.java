@@ -31,7 +31,7 @@ public class Generator {
 
             //生成表达式
             expression = new Expression(opCounts, max);
-            expression.createBTree();
+            expression.createExpression();
             //计算运算结果
             String answer = expression.getResult();
 

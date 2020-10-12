@@ -48,11 +48,11 @@ public class TestGenerator {
     }
 
     /**
-     * 生成10道题，最大值为10的情况(-n参数在前)
+     * 生成6道题，最大值为10的情况(-n参数在前)
      */
     @Test
     public void testCommandFirstNThenR(){
-        Main.main(new String[]{"-n", "10", "-r", "10"});
+        Main.main(new String[]{"-n", "6", "-r", "10"});
     }
 
     /**

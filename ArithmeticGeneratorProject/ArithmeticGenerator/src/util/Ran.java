@@ -91,35 +91,46 @@ public class Ran {
     }
 
     /**
-     * 根据运算符的个数随机产生子节点的位置（该方法可针对任意个运算符的情况，这里只讨论2-3个的情况）
-     * 该方法生成的Boolean数组用于决定新生成的运算符的位置，若为true，则创建一个运算符；指定的运算符个数为2时，k[]的长度为2，且true和false各一个；
-     * 指定的运算符个数为3，K[]长度也为2，但元素值都是true（除了root结点还要再生成两个运算符）
      * @param num
      * @return childPlace
      */
     public static boolean[] getChildPlace(int num){
-        int d = 0;//要生成的false元素的个数
-        int size = 0;//数组长度
-        int j=1;
+        //注释的代码针对任意个运算符的情况
+        // int d = 0;//要生成的false元素的个数
+        // int size = 0;//数组长度
+        // int j=1;
+        //
+        // while(num >= (int)Math.pow(2, j)){
+        //     j++;
+        // }
+        // d = (int)Math.pow(2, j) - 1 - num;
+        // size = (int)Math.pow(2, j-1);
+        // boolean[] k = new boolean[size];
+        //
+        // for(int i = 0; i < size; i++){
+        //     k[i] = true;
+        // }
+        // for(int i = 0; i < d; i++){
+        //     Random ran = new Random();
+        //     int f = ran.nextInt(size);
+        //     while(k[f] == false) {
+        //         f = ran.nextInt(size);
+        //     }
+        //     k[f] = false;
+        // }
+        // return k;
 
-        while(num >= (int)Math.pow(2, j)){
-            j++;
-        }
-        d = (int)Math.pow(2, j) - 1 - num;
-        size = (int)Math.pow(2, j-1);
-        boolean[] k = new boolean[size];
+        boolean[] result = new boolean[]{true, true};
 
-        for(int i = 0; i < size; i++){
-            k[i] = true;
-        }
-        for(int i = 0; i < d; i++){
-            Random ran = new Random();
-            int f = ran.nextInt(size);
-            while(k[f] == false) {
-                f = ran.nextInt(size);
+        if(num==2){
+            Random random = new Random();
+            if(random.nextBoolean()){
+                result[0] = false;
+            }else {
+                result[1] = false;
             }
-            k[f] = false;
         }
-        return k;
+
+        return result;
     }
 }
