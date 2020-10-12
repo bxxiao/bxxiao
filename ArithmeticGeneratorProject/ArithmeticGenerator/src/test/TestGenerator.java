@@ -7,6 +7,7 @@ public class TestGenerator {
 
     /**
      * 测试无 -r 参数情况
+     *
      */
     @Test
     public void testCommandNotParamR(){

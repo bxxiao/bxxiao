@@ -1,7 +1,5 @@
 package util;
 
-import expression.Expression;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -15,9 +13,9 @@ public class FileUtil {
      * @param answers
      */
     public static void write(List<String> expressions, List<String> answers){
-        String projectPath = new File("").getAbsolutePath();//项目绝对路径
-        File expFile = new File(projectPath + File.separator + "src" + File.separator + "expFile.txt");
-        File answersFile = new File(projectPath + File.separator + "src" + File.separator + "answers.txt");
+        String currentPath = new File("").getAbsolutePath();//当前绝对路径
+        File expFile = new File(currentPath + File.separator + "expFile.txt");
+        File answersFile = new File(currentPath + File.separator + "answers.txt");
 
         FileWriter expWriter;
         FileWriter answerWriter;
@@ -31,8 +29,10 @@ public class FileUtil {
         }
 
         try {
+            //创建文件
             expFile.createNewFile();
             answersFile.createNewFile();
+            //创建文件对应的输出流
             expWriter = new FileWriter(expFile);
             answerWriter = new FileWriter(answersFile);
 
@@ -44,7 +44,7 @@ public class FileUtil {
     }
 
     /**
-     * 将List中的内容写入输出流中，且以改格式：
+     * 将List中的内容写入输出流中，且以下述格式：
      * 1. ---
      * 2. ---
      * 3. ---
